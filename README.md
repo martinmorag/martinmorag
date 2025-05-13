@@ -4,19 +4,18 @@ Hello, I'm a student at Brigham Young University-Idaho interested in Software De
 
 ## About Me
 
-- I'm currently learning ...
-- My goals are to ...
-- Ask me about ...
+- I'm currently learning about ASP.NET Core and building apps to know more about the benefits of using this tool for building websites.
+- My goals are to reach more clients and have a web developer job where I can have meaningful contributions in interesting projects and further developer my skills.
 
 ## Technologies and Tools
 
-- Proficient in: <List of Programming Languages or Technologies>
-- Skills: <Any Other Skills or Tools You Want to Highlight>
+- Proficient in: Javascript and C#
+- Skills: SQL, NoSQL, authentication, website design.
 
 ## Let's Connect!
 
-- Here is my [LinkedIn](Your LinkedIn Profile Link) profile
-- Here is my [Twitter](Your Twitter Profile Link) profile
+- Here is my [LinkedIn](www.linkedin.com/in/martin-moraga-lopez-810077222) profile
+- Here is my [Instagram](https://www.instagram.com/martin_morag/) profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
 <!--
