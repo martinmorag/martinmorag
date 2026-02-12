@@ -20,11 +20,11 @@ Hello, I'm a student at Brigham Young University-Idaho interested in Software De
 ## Projects
 
 Products and Sales Management
-- Designed, build and deployed an appa that manages products and sales for your business with details that can help you handle details as taxes, prices, quantities and more.
-- Integrated NodeMailer API to send email with feedback to developer
+- Designed, build and deployed an app that manages 1-year suscription to user that buy the membership, the student can use the resources on the website to learn and if he completes the lessons, he will have to do an exam to get a certificate.
+- Integrated NodeMailer API to send email with feedback to developer, MercadoPago to process payments and progress, videos, quizzes and pdf logic available for the student to use.
 - Technologies: NextJS and Neon.Tech for database
-- Deployed on Render: https://manejo-de-empresas.vercel.app/
-- Source: https://github.com/martinmorag/manejo-de-empresas.git
+- Deployed on Render: https://programa-21-dias.vercel.app/
+- Source: https://github.com/martinmorag/programa-21-dias.git
 
 Instagram diviser tool
 - Designed, built and deployed an app that helps cut images to publish an appealing post on instagram, this tool exists but it's not free in other websites
